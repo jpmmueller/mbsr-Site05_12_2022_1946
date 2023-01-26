@@ -94,16 +94,16 @@
                         enctype="multipart/form-data">
                         <input type="hidden" name="empfaenger" value="helo@mbsr-im-allgaeu.de">
                         <input type="hidden" name="betreff" value="mbsr Homepage Allgemeine Anfrage Kontaktseite ">
-                        <input type="hidden" name="absender_erweitert" value="##Name##">
+                        <input type="hidden" name="absender_erweitert" value="##Name##, ##mail_adr##">
                         <input type="hidden" name="pflicht" value="Name,absender">
-                        <input type="hidden" name="email_check" value="1">
+                        <input type="hidden" name="_validierung_mail_adr_" value="email">
                         <input type="hidden" name="antwortseite_template"
                             value="https://mbsr-im-allgaeu.de/antwortok.html">
                         <input type="hidden" name="fehler_template" value="https://mbsr-im-allgaeu.de/mailfehler.html">
                         <input type="hidden" name="referer" value="mbsr-im-allgaeu.de">
 
                         <input id="name" type="text" name="Name" placeholder="Name *"><br>
-                        <input id="email" type="text" name="absender" placeholder="E-Mail *"><br>
+                        <input id="mail_adr" type="text" name="mail_adr" placeholder="E-Mail *"><br>
                         <textarea id="nachricht" type="text" name="text" placeholder="Nachricht"></textarea><br>
 
                         <input type="checkbox" class="hackbox check_kontakt" id="mehr_lesen_lesbarkeit"> </span><br>
