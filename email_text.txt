@@ -1,17 +1,18 @@
 Hallo allerbeste Heloise,
  
 am ##DATUM## um ##UHRZEIT## hat ein Besucher das Formular auf Deiner mbsr Website abgeschickt:
+
  
-Der Besucher hatte die IP ##ENV_REMOTE_ADDR##.
- 
-Die Daten:
-~~~~~~~~~~
+Hier die übermittelten Daten:
+------------------------------------------------
 <br>
  Name: ##Name##
  E-Mail: ##kdnmail##
- <br>
+ 
  Nachricht:
- <br> 
+  
  ##text##
+
+------------------------------------------------
  
  
