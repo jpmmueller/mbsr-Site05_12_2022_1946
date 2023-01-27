@@ -4,15 +4,15 @@ am ##DATUM## um ##UHRZEIT## hat ein Besucher das Formular auf Deiner mbsr Websit
 
  
 Hier die übermittelten Daten:
-------------------------------------------------
-<br>
- Name: ##Name##
- E-Mail: ##kdnmail##
- 
- Nachricht:
-  
- ##text##
 
-------------------------------------------------
+Name: ##Name##
+E-Mail: ##kdnmail##
+
+Nachricht:
+-------------------------------------------------------------------------------
+  
+##text##
+
+-------------------------------------------------------------------------------
  
  
