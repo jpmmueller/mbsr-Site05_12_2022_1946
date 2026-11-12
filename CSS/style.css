@@ -221,6 +221,8 @@ article {
   margin: 5px 0px 0px 0px;
 }
 
+/* Datumswerte in Tabellen untreinander ausrichten mit font-variant-numeric */
+/* Nicht perfekt, da die Schriftart ein wenig zu monospace wird*/
 .datum-td {
   font-size: 0.9rem;
   font-variant-numeric: tabular-nums;
